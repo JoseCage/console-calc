@@ -3,6 +3,7 @@
 /**
  * Programa criado para fins de estudo
  * Por: José Januário
+ * @package: Components.Multiplicacao
  *
 */
 

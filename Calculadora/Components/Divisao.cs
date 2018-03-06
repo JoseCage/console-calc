@@ -1,6 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+
+/**
+ * Programa criado para fins de estudo
+ * Por: José Januário
+ * @package: Components.Divisao
+ *
+*/
 
 namespace Calculadora.Components
 {

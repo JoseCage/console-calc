@@ -1,6 +1,13 @@
 ﻿using System;
 using Calculadora.Components;
 
+/**
+ * Programa criado para fins de estudo
+ * Por: José Januário
+ * @package: Calculadora
+ *
+*/
+
 namespace Calculadora
 {
     class Program

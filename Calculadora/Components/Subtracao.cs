@@ -1,6 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+
+/**
+ * Programa criado para fins de estudo
+ * Por: José Januário
+ * @package: Components.Subtracao
+ *
+*/
 
 namespace Calculadora.Components
 {

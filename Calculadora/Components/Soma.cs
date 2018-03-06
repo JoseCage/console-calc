@@ -1,5 +1,12 @@
 ﻿using System;
 
+/**
+ * Programa criado para fins de estudo
+ * Por: José Januário
+ * @package: Components.Soma
+ *
+*/
+
 namespace Calculadora.Components
 {
     public class Soma
